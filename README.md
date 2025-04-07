@@ -1,0 +1,1 @@
+Code for analysis published in: Ayoubkhani D, Bosworth ML, King S, et al. Risk of Long COVID in People Infected With Severe Acute Respiratory Syndrome Coronavirus 2 After 2 Doses of a Coronavirus Disease 2019 Vaccine: Community-Based, Matched Cohort Study. _OFID_ 2022;9:ofac464. doi: 10.1093/ofid/ofac464
